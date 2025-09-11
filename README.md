@@ -1,7 +1,12 @@
 # awesome-no-slop-development
-Lists of projects people and companies that are brave enough to stand up and publicly say that THE EMPEROR HAS NO CLOTHES.
+Lists
 
-Expand the list if are not afraid to say that you've given "gen AI" a chance, you didn't see any useful results, and that your're moving on.
+- [projects](#projects)
+- [people](#people) and
+- [companies](#companies)
+
+that are brave enough to stand up and publicly say that THE EMPEROR HAS NO CLOTHES.
+Expand the list if you are not afraid to say that you've given "gen AI" a chance, you didn't see any useful results, and that your're moving on.
 
 Yes starting this list absolutely is necessary because it is a literal case of bystander effect where everyone's too afraid of
 
@@ -13,15 +18,15 @@ and everyone's talking about it in private but still, good luck finding a compan
 
 Also having this list can help you make decisions between projects to participate in, products to purchase, or people and companies employ/join.
 
+## Projects
+
+- know of a project? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
+
 ## People
 
 - Luka L https://github.com/lukal-x
-- you? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
-
-## Projects
-
-- your project? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
+- you or someone you know? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
 
 ## Companies
 
-- your company? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
+- know of a company? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
