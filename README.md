@@ -6,6 +6,7 @@ Lists
 - [companies](#companies)
 
 that are brave enough to stand up and publicly say that THE EMPEROR HAS NO CLOTHES.
+
 Expand the list if you are not afraid to say that you've given "gen AI" a chance, you didn't see any useful results, and that your're moving on.
 
 Yes starting this list absolutely is necessary because it is a literal case of bystander effect where everyone's too afraid of
