@@ -21,6 +21,7 @@ Also having this list can help you make decisions between projects to participat
 
 ## Projects
 
+- Gentoo Linux https://wiki.gentoo.org/wiki/Project:Council/AI_policy
 - know of a project? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
 
 ## People
