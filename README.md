@@ -9,6 +9,8 @@ that are brave enough to stand up and publicly say they've given "gen AI" a chan
 
 Personally I keep trying (in good faith) to use it really hard because I'm instructed to, by my job (despite me reporting negative productivity!), and the results are consistently bad - the amount of time I'm instructed to putting into something that clearly doesn't work is a such a shame...
 
+---
+
 Yes starting this list absolutely is necessary because it is a literal case of bystander effect where everyone's too afraid of
 
 - appearning dismissive, or
@@ -18,6 +20,8 @@ Yes starting this list absolutely is necessary because it is a literal case of b
 and many are talking about it in private but still, good luck finding a company advertising their products as no-"AI" or advertising that they don't use some kind of model to write the software that handles your passwords and your credit card info just to brand themselves as modern.
 
 Also having this list can help you make decisions between projects to participate in, products to purchase, or people and companies employ/join.
+
+I'll look into categorizing or tagging the cause between something like [licensing], [ethical], [legal], [quality], [other] etc.
 
 ## Projects
 
