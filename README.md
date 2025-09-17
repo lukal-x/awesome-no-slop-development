@@ -36,6 +36,7 @@ I'll look into categorizing or tagging the cause between something like [licensi
 - Luka L https://github.com/lukal-x
 - Luciano N https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/
 - Fell S https://www.youtube.com/watch?v=VTc-ItgFOrg
+- George Heotz (geohot) https://geohot.github.io/blog/jekyll/update/2025/09/12/ai-coding.html
 - you or someone you know? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
 
 ## Companies
