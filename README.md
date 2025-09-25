@@ -1,4 +1,8 @@
 # awesome-no-slop-development
+
+![](88x31-dark.png)
+![](88x31-light.png)
+
 Lists
 
 - [projects](#projects)
@@ -37,6 +41,8 @@ I'll look into categorizing or tagging the cause between something like [licensi
 - Luciano N https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/
 - Fell S https://www.youtube.com/watch?v=VTc-ItgFOrg
 - George Heotz (geohot) https://geohot.github.io/blog/jekyll/update/2025/09/12/ai-coding.html
+- Tris O https://brainmade.org/
+- Thomas K https://no-ai-icon.com/
 - you or someone you know? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
 
 ## Companies
