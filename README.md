@@ -44,6 +44,7 @@ I'll look into categorizing or tagging the cause between something like [licensi
 - Tris O https://brainmade.org/
 - Thomas K https://no-ai-icon.com/
 - Bobby-McBobster https://www.reddit.com/r/ExperiencedDevs/comments/1nxmrnp/comment/nhoqz08/
+- hyrumwhite https://www.reddit.com/r/ExperiencedDevs/comments/1nxmrnp/comment/nhpwc7x/
 - you or someone you know? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
 
 ## Companies
