@@ -52,4 +52,5 @@ I'll look into categorizing or tagging the cause between something like [licensi
 ## Companies
 
 - https://procreate.com/ (see https://procreate.com/ai) Art is for everyone. Amplify your creativity with our powerful and intuitive apps, made for creative professionals and aspiring artists.
+- https://ellipsus.com (see https://ellipsus.com/generative-ai) Ellipsus is a collaborative writing tool made for human-to-human creativity.
 - know of a company? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
