@@ -29,11 +29,12 @@ I'll look into categorizing or tagging the cause between something like [licensi
 
 ## Projects
 
+- Cloud Hypervisor https://github.com/cloud-hypervisor/cloud-hypervisor/blob/main/CONTRIBUTING.md#ai-generated-code
 - Gentoo Linux https://wiki.gentoo.org/wiki/Project:Council/AI_policy
 - git https://lwn.net/ml/all/xmqqcyalm0mh.fsf@gitster.g/
 - NetBSD https://www.netbsd.org/developers/commit-guidelines.html
 - QEMU https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048
-- Cloud Hypervisor https://github.com/cloud-hypervisor/cloud-hypervisor/blob/main/CONTRIBUTING.md#ai-generated-code
+- zig https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy
 - know of a project? Make a PR! https://github.com/lukal-x/awesome-no-slop-development/pulls
 
 ## People
